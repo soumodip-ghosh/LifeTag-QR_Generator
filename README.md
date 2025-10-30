@@ -1,0 +1,1 @@
+# LifeTag-QR_Generator
