@@ -103,7 +103,7 @@ python QRGenerator.py
 - Shadab Ali (11600223099)
 - Nitesh Shaw (11600223070)
 - Sovona Rana (11600223116)
-- Debatwik Santra (11600223047)
+- Debatwik Santra (BTECH/CSE/23/110) (11600223047)
 
 **Guide:** Mr. Milan Chakrabortty
 
