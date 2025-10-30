@@ -99,7 +99,7 @@ python QRGenerator.py
 
 **MCKV Institute of Engineering - CSE Department**
 
-- Soumodip Ghosh (11600223113)
+- Soumodip Ghosh (BTECH/CSE/23/106) (11600223113)
 - Shadab Ali (11600223099)
 - Nitesh Shaw (11600223070)
 - Sovona Rana (11600223116)
